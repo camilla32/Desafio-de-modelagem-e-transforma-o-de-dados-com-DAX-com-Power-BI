@@ -8,7 +8,7 @@ O projeto consiste na criação de tabela fato e dimensão a partir de dados de 
 Etapas
 ----
 
-- Duplicação da tabela finacias.
+- Duplicação da tabela financias.
 - criação da tabela fato e dimensão.
 - criação do esquema estrela
 - criação da tabela calendario com a DAX calendar().
